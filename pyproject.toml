@@ -6,6 +6,7 @@ authors = ["Edvinas Adomaitis <t4skmanag3r@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{ include = "env_cleanup_utils" }]
+repository = "https://github.com/t4skmanag3r/env_cleanup_utils"
 
 [tool.poetry.dependencies]
 python = "^3.10"

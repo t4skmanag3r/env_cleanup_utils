@@ -1,6 +1,7 @@
-# env_cleanup_utils Python Package
+# [env_cleanup_utils](https://pypi.org/project/env-cleanup-utils/)
 
-A Python package for cleaning up virtual environments (venv), `__pycache__`, and `node_modules` directories within a directory tree. It also to saves the requirements of virtual environments to a `requirements.txt` file.
+A Python package for cleaning up virtual environments (venv), `__pycache__`, and `node_modules` directories within a directory tree. It also saves the requirements of virtual environments to a `requirements.txt` file.
+It is capable of traversing the subdirectories and finding all virtual environments
 
 ## Installation
 
@@ -73,11 +74,11 @@ for venv_dir in venv_dirs:
 ```
 ## Contributing
 
-If you would like to contribute to the development of the `env_cleanup_utils` package, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+If you would like to contribute to the development of the `env_cleanup_utils` package by adding more functionality, you are welcome to open a pull request.
 
-## License
-
-This package is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## References
+- [Github repository](https://github.com/t4skmanag3r/env_cleanup_utils)
+- [PyPI package](https://pypi.org/project/env-cleanup-utils/)
 
 ---
 
